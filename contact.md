@@ -1,21 +1,21 @@
-  <h3 align="middle">
+  <h2 align="middle">
 
- <sub> For all solutions, pricing, plans, licenses, or consultations
+  For all solutions, pricing, plans, licenses, or consultations
 
 <a href='ai@theleightonhaus.com' target="_blank"><img alt='icloud' src='https://img.shields.io/badge/Solutions-100000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D46FF&color=14fecc'/></a>
 
-  <h3 align="middle">
+  <h2 align="middle">
 
      
-   <sub> Questions and communications regarding AIM DYNAMIX financial performances
+   Questions and communications regarding AIM DYNAMIX financial performances
 
 <a href='ai@theleightonhaus.com' target="_blank"><img alt='icloud' src='https://img.shields.io/badge/Investors-100000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D46FF&color=14fecc'/></a>
 
-  <h3 align="middle">
+  <h2 align="middle">
 
-  <sub> If you have questions in relation to press kits regarding communications or media requests, please email
+  If you have questions in relation to press kits regarding communications or media requests, please email
 
-<a href='info@theleightonhaus.com' target="_blank"><img alt='icloud' src='https://img.shields.io/badge/PR_& Media Relations-100000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D46FF&color=14fecc'/></a>
+<a href='info@theleightonhaus.com' target="_blank"><img alt='icloud' src='https://img.shields.io/badge/PR_&_Media_Relations-100000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D46FF&color=14fecc'/></a>
 
 
 
