@@ -1,8 +1,7 @@
-# Code of Conduct 
-
-
-
-<h3 align="middle"> 
+<h1 align="middle">  Code of Conduct 
+  
+  <h3 align="middle"> 
+  
   We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
