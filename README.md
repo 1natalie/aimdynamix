@@ -15,10 +15,4 @@
 
 
 
- <h3 align="middle">
-
-
-<a href='https://leightonavantgardehaus.github.io/' target="_blank"><img alt='Legals' src='https://img.shields.io/badge/Privacy_Policy-100000?style=for-the-badge&logo=Legals&logoColor=white&labelColor=14fecc&color=14fecc'/></a>
-<a href='https://leightonavantgardehaus.github.io/' target="_blank"><img alt='Legals' src='https://img.shields.io/badge/Terms_and_conditions-100000?style=for-the-badge&logo=Legals&logoColor=white&labelColor=14fecc&color=14fecc'/></a>
-<a href='https://leightonavantgardehaus.github.io/' target="_blank"><img alt='Legals' src='https://img.shields.io/badge/Accessibility-100000?style=for-the-badge&logo=Legals&logoColor=white&labelColor=14fecc&color=14fecc'/></a>
 
