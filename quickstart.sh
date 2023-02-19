@@ -1,0 +1,1 @@
+echo "AIM DYNAMIX $(date)."
